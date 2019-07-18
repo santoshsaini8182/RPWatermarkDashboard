@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RPWatermarkDashBoard.Core", "RPWatermarkDashBoard.Core\RPWatermarkDashBoard.Core.csproj", "{9190CB23-0546-4FF3-AAD3-EE1772F69586}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPWatermarkDashBoard.WebApi", "RPWatermarkDashBoard.WebApi\RPWatermarkDashBoard.WebApi.csproj", "{78E3E849-ABA7-4D27-8FA2-AE01CB50EA3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPWatermarkDashBoard.Web", "RPWatermarkDashBoard.Web\RPWatermarkDashBoard.Web.csproj", "{DCDF918D-708A-4782-B255-56EFF384747C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9190CB23-0546-4FF3-AAD3-EE1772F69586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9190CB23-0546-4FF3-AAD3-EE1772F69586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9190CB23-0546-4FF3-AAD3-EE1772F69586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9190CB23-0546-4FF3-AAD3-EE1772F69586}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78E3E849-ABA7-4D27-8FA2-AE01CB50EA3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78E3E849-ABA7-4D27-8FA2-AE01CB50EA3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78E3E849-ABA7-4D27-8FA2-AE01CB50EA3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78E3E849-ABA7-4D27-8FA2-AE01CB50EA3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCDF918D-708A-4782-B255-56EFF384747C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDF918D-708A-4782-B255-56EFF384747C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDF918D-708A-4782-B255-56EFF384747C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDF918D-708A-4782-B255-56EFF384747C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A16A0FA-1647-47FD-9C41-6A72F79CFBB4}
+	EndGlobalSection
+EndGlobal
